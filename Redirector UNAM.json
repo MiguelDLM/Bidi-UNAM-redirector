@@ -1,0 +1,1604 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2022-01-10T15:44:46.604Z",
+    "redirects": [
+		  {
+			"description": "Acta Sanctorum",
+			"exampleUrl": "http://acta.chadwyck.com/",
+			"exampleResult": "http://acta.chadwyck.com.pbidi.unam.mx:8080/",
+			"error": null,
+			"includePattern": "http://acta.chadwyck.com/*",
+			"excludePattern": "",
+			"patternDesc": "Acta Sanctorum to Biblioteca digital UNAM",
+			"redirectUrl": "http://acta.chadwyck.com.pbidi.unam.mx:8080/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "HAPI Online",
+			"exampleUrl": "http://hapi.ucla.edu/",
+			"exampleResult": "http://hapi.ucla.edu.pbidi.unam.mx:8080/",
+			"error": null,
+			"includePattern": "http://hapi.ucla.edu/*",
+			"excludePattern": "",
+			"patternDesc": "HAPI Online to Biblioteca digital UNAM",
+			"redirectUrl": "http://hapi.ucla.edu.pbidi.unam.mx:8080/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Springer Materials",
+			"exampleUrl": "http://materials.springer.com/",
+			"exampleResult": "http://materials.springer.com.pbidi.unam.mx:8080/",
+			"error": null,
+			"includePattern": "http://materials.springer.com/*",
+			"excludePattern": "",
+			"patternDesc": "Springer Materials to Biblioteca digital UNAM",
+			"redirectUrl": "http://materials.springer.com.pbidi.unam.mx:8080/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Ulrichs periodicals directory",
+			"exampleUrl": "http://ulrichsweb.serialssolutions.com/",
+			"exampleResult": "http://ulrichsweb.serialssolutions.com.pbidi.unam.mx:8080/",
+			"error": null,
+			"includePattern": "http://ulrichsweb.serialssolutions.com/*",
+			"excludePattern": "",
+			"patternDesc": "Ulrichs periodicals directory to Biblioteca digital UNAM",
+			"redirectUrl": "http://ulrichsweb.serialssolutions.com.pbidi.unam.mx:8080/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "ASP Conference Series",
+			"exampleUrl": "http://www.aspbooks.org/",
+			"exampleResult": "http://www.aspbooks.org.pbidi.unam.mx:8080/",
+			"error": null,
+			"includePattern": "http://www.aspbooks.org/*",
+			"excludePattern": "",
+			"patternDesc": "ASP Conference Series to Biblioteca digital UNAM",
+			"redirectUrl": "http://www.aspbooks.org.pbidi.unam.mx:8080/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Encyclopedia of Life Sciences",
+			"exampleUrl": "http://www.els.net/",
+			"exampleResult": "http://www.els.net.pbidi.unam.mx:8080/",
+			"error": null,
+			"includePattern": "http://www.els.net/*",
+			"excludePattern": "",
+			"patternDesc": "Encyclopedia of Life Sciences to Biblioteca digital UNAM",
+			"redirectUrl": "http://www.els.net.pbidi.unam.mx:8080/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Project MUSE Journals",
+			"exampleUrl": "https://about.muse.jhu.edu/",
+			"exampleResult": "https://about-muse-jhu-edu.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://about.muse.jhu.edu/*",
+			"excludePattern": "",
+			"patternDesc": "Project MUSE Journals to Biblioteca digital UNAM",
+			"redirectUrl": "https://about-muse-jhu-edu.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Encyclopaedia Britannica",
+			"exampleUrl": "https://academic.eb.com/",
+			"exampleResult": "https://academic-eb-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://academic.eb.com/*",
+			"excludePattern": "",
+			"patternDesc": "Encyclopaedia Britannica to Biblioteca digital UNAM",
+			"redirectUrl": "https://academic-eb-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Oxford Academic Journals",
+			"exampleUrl": "https://academic.oup.com/",
+			"exampleResult": "https://academic-oup-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://academic.oup.com/*",
+			"excludePattern": "",
+			"patternDesc": "Oxford Academic Journals to Biblioteca digital UNAM",
+			"redirectUrl": "https://academic-oup-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Access Medicina",
+			"exampleUrl": "https://accessmedicina.mhmedical.com/",
+			"exampleResult": "https://accessmedicina-mhmedical-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://accessmedicina.mhmedical.com/*",
+			"excludePattern": "",
+			"patternDesc": "Access Medicina to Biblioteca digital UNAM",
+			"redirectUrl": "https://accessmedicina-mhmedical-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Access Pharmacy",
+			"exampleUrl": "https://accesspharmacy.mhmedical.com/",
+			"exampleResult": "https://accesspharmacy-mhmedical-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://accesspharmacy.mhmedical.com/*",
+			"excludePattern": "",
+			"patternDesc": "Access Pharmacy to Biblioteca digital UNAM",
+			"redirectUrl": "https://accesspharmacy-mhmedical-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "ACSESS Digital Library",
+			"exampleUrl": "https://acsess.onlinelibrary.wiley.com/",
+			"exampleResult": "https://acsess-onlinelibrary-wiley-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://acsess.onlinelibrary.wiley.com/*",
+			"excludePattern": "",
+			"patternDesc": "ACSESS Digital Library to Biblioteca digital UNAM",
+			"redirectUrl": "https://acsess-onlinelibrary-wiley-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Lexis Nexis Advance",
+			"exampleUrl": "https://advance.lexis.com/",
+			"exampleResult": "https://advance-lexis-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://advance.lexis.com/*",
+			"excludePattern": "",
+			"patternDesc": "Lexis Nexis Advance to Biblioteca digital UNAM",
+			"redirectUrl": "https://advance-lexis-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "AGRICOLA",
+			"exampleUrl": "https://agricola.nal.usda.gov/",
+			"exampleResult": "https://agricola-nal-usda-gov.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://agricola.nal.usda.gov/*",
+			"excludePattern": "",
+			"patternDesc": "AGRICOLA to Biblioteca digital UNAM",
+			"redirectUrl": "https://agricola-nal-usda-gov.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "AGRIS",
+			"exampleUrl": "https://agris.fao.org/",
+			"exampleResult": "https://agris-fao-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://agris.fao.org/*",
+			"excludePattern": "",
+			"patternDesc": "AGRIS to Biblioteca digital UNAM",
+			"redirectUrl": "https://agris-fao-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "AIP Proceedings",
+			"exampleUrl": "https://aip.scitation.org/",
+			"exampleResult": "https://aip-scitation-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://aip.scitation.org/*",
+			"excludePattern": "",
+			"patternDesc": "AIP Proceedings to Biblioteca digital UNAM",
+			"redirectUrl": "https://aip-scitation-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "vLex",
+			"exampleUrl": "https://app.vlex.com/",
+			"exampleResult": "https://app-vlex-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://app.vlex.com/*",
+			"excludePattern": "",
+			"patternDesc": "vLex to Biblioteca digital UNAM",
+			"redirectUrl": "https://app-vlex-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "ASCE Library",
+			"exampleUrl": "https://ascelibrary.org/",
+			"exampleResult": "https://ascelibrary-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://ascelibrary.org/*",
+			"excludePattern": "",
+			"patternDesc": "ASCE Library to Biblioteca digital UNAM",
+			"redirectUrl": "https://ascelibrary-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "BMJ Best Practice",
+			"exampleUrl": "https://bestpractice.bmj.com/",
+			"exampleResult": "https://bestpractice-bmj-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://bestpractice.bmj.com/*",
+			"excludePattern": "",
+			"patternDesc": "BMJ Best Practice to Biblioteca digital UNAM",
+			"redirectUrl": "https://bestpractice-bmj-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Biblioteca Digital CP67",
+			"exampleUrl": "https://bibliotecadigital.cp67.com/",
+			"exampleResult": "https://bibliotecadigital-cp67-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://bibliotecadigital.cp67.com/*",
+			"excludePattern": "",
+			"patternDesc": "Biblioteca Digital CP67 to Biblioteca digital UNAM",
+			"redirectUrl": "https://bibliotecadigital-cp67-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "BioOne",
+			"exampleUrl": "https://bioone.org/",
+			"exampleResult": "https://bioone-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://bioone.org/*",
+			"excludePattern": "",
+			"patternDesc": "BioOne to Biblioteca digital UNAM",
+			"redirectUrl": "https://bioone-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Birds of the World",
+			"exampleUrl": "https://birdsoftheworld.org/",
+			"exampleResult": "https://birdsoftheworld-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://birdsoftheworld.org/*",
+			"excludePattern": "",
+			"patternDesc": "Birds of the World to Biblioteca digital UNAM",
+			"redirectUrl": "https://birdsoftheworld-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Wiley Protocols",
+			"exampleUrl": "https://currentprotocols.onlinelibrary.wiley.com/",
+			"exampleResult": "https://currentprotocols-onlinelibrary-wiley-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://currentprotocols.onlinelibrary.wiley.com/*",
+			"excludePattern": "",
+			"patternDesc": "Wiley Protocols to Biblioteca digital UNAM",
+			"redirectUrl": "https://currentprotocols-onlinelibrary-wiley-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "ACM Digital Library",
+			"exampleUrl": "https://dl.acm.org/",
+			"exampleResult": "https://dl-acm-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://dl.acm.org/*",
+			"excludePattern": "",
+			"patternDesc": "ACM Digital Library to Biblioteca digital UNAM",
+			"redirectUrl": "https://dl-acm-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Dictionary of Natural Products",
+			"exampleUrl": "https://dnp.chemnetbase.com/",
+			"exampleResult": "https://dnp-chemnetbase-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://dnp.chemnetbase.com/*",
+			"excludePattern": "",
+			"patternDesc": "Dictionary of Natural Products to Biblioteca digital UNAM",
+			"redirectUrl": "https://dnp-chemnetbase-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Manual Moderno",
+			"exampleUrl": "https://ebooks.manualmoderno.com/",
+			"exampleResult": "https://ebooks-manualmoderno-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://ebooks.manualmoderno.com/*",
+			"excludePattern": "",
+			"patternDesc": "Manual Moderno to Biblioteca digital UNAM",
+			"redirectUrl": "https://ebooks-manualmoderno-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Human Relations Area Files",
+			"exampleUrl": "https://ehrafarchaeology.yale.edu/",
+			"exampleResult": "https://ehrafarchaeology-yale-edu.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://ehrafarchaeology.yale.edu/*",
+			"excludePattern": "",
+			"patternDesc": "Human Relations Area Files to Biblioteca digital UNAM",
+			"redirectUrl": "https://ehrafarchaeology-yale-edu.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "SIAM e-books",
+			"exampleUrl": "https://epubs.siam.org/",
+			"exampleResult": "https://epubs-siam-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://epubs.siam.org/*",
+			"excludePattern": "",
+			"patternDesc": "SIAM e-books to Biblioteca digital UNAM",
+			"redirectUrl": "https://epubs-siam-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "ERIC",
+			"exampleUrl": "https://eric.ed.gov/",
+			"exampleResult": "https://eric-ed-gov.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://eric.ed.gov/*",
+			"excludePattern": "",
+			"patternDesc": "ERIC to Biblioteca digital UNAM",
+			"redirectUrl": "https://eric-ed-gov.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Essential science indicators",
+			"exampleUrl": "https://esi.clarivate.com/",
+			"exampleResult": "https://esi-clarivate-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://esi.clarivate.com/*",
+			"excludePattern": "",
+			"patternDesc": "Essential science indicators to Biblioteca digital UNAM",
+			"redirectUrl": "https://esi-clarivate-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Springer Protocols",
+			"exampleUrl": "https://experiments.springernature.com/",
+			"exampleResult": "https://experiments-springernature-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://experiments.springernature.com/*",
+			"excludePattern": "",
+			"patternDesc": "Springer Protocols to Biblioteca digital UNAM",
+			"redirectUrl": "https://experiments-springernature-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "WorldCat",
+			"exampleUrl": "https://firstsearch.oclc.org/",
+			"exampleResult": "https://firstsearch-oclc-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://firstsearch.oclc.org/*",
+			"excludePattern": "",
+			"patternDesc": "WorldCat to Biblioteca digital UNAM",
+			"redirectUrl": "https://firstsearch-oclc-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Gale",
+			"exampleUrl": "https://go.gale.com/",
+			"exampleResult": "https://go-gale-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://go.gale.com/*",
+			"excludePattern": "",
+			"patternDesc": "Gale to Biblioteca digital UNAM",
+			"redirectUrl": "https://go-gale-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "IEEE Xplore",
+			"exampleUrl": "https://ieeexplore.ieee.org/",
+			"exampleResult": "https://ieeexplore-ieee-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://ieeexplore.ieee.org/*",
+			"excludePattern": "",
+			"patternDesc": "IEEE Xplore to Biblioteca digital UNAM",
+			"redirectUrl": "https://ieeexplore-ieee-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "News Bank",
+			"exampleUrl": "https://infoweb.newsbank.com/",
+			"exampleResult": "https://infoweb-newsbank-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://infoweb.newsbank.com/*",
+			"excludePattern": "",
+			"patternDesc": "News Bank to Biblioteca digital UNAM",
+			"redirectUrl": "https://infoweb-newsbank-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "INSPEC Analytics",
+			"exampleUrl": "https://inspec.analytics.app.theiet.org/",
+			"exampleResult": "https://inspec-analytics-app-theiet-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://inspec.analytics.app.theiet.org/*",
+			"excludePattern": "",
+			"patternDesc": "INSPEC Analytics to Biblioteca digital UNAM",
+			"redirectUrl": "https://inspec-analytics-app-theiet-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "IOPscience",
+			"exampleUrl": "https://iopscience.iop.org/",
+			"exampleResult": "https://iopscience-iop-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://iopscience.iop.org/*",
+			"excludePattern": "",
+			"patternDesc": "IOPscience to Biblioteca digital UNAM",
+			"redirectUrl": "https://iopscience-iop-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Journal Citation Reports",
+			"exampleUrl": "https://jcr.clarivate.com/",
+			"exampleResult": "https://jcr-clarivate-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://jcr.clarivate.com/*",
+			"excludePattern": "",
+			"patternDesc": "Journal Citation Reports to Biblioteca digital UNAM",
+			"redirectUrl": "https://jcr-clarivate-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Sage Publishing",
+			"exampleUrl": "https://journals.sagepub.com/",
+			"exampleResult": "https://journals-sagepub-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://journals.sagepub.com/*",
+			"excludePattern": "",
+			"patternDesc": "Sage Publishing to Biblioteca digital UNAM",
+			"redirectUrl": "https://journals-sagepub-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "ARTstor",
+			"exampleUrl": "https://library.artstor.org/",
+			"exampleResult": "https://library-artstor-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://library.artstor.org/*",
+			"excludePattern": "",
+			"patternDesc": "ARTstor to Biblioteca digital UNAM",
+			"redirectUrl": "https://library-artstor-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "SpringerLink",
+			"exampleUrl": "https://link.springer.com/",
+			"exampleResult": "https://link-springer-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://link.springer.com/*",
+			"excludePattern": "",
+			"patternDesc": "SpringerLink to Biblioteca digital UNAM",
+			"redirectUrl": "https://link-springer-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "MathSciNet",
+			"exampleUrl": "https://mathscinet.ams.org/",
+			"exampleResult": "https://mathscinet-ams-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://mathscinet.ams.org/*",
+			"excludePattern": "",
+			"patternDesc": "MathSciNet to Biblioteca digital UNAM",
+			"redirectUrl": "https://mathscinet-ams-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "LWW Health Library",
+			"exampleUrl": "https://meded.lwwhealthlibrary.com/",
+			"exampleResult": "https://meded-lwwhealthlibrary-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://meded.lwwhealthlibrary.com/*",
+			"excludePattern": "",
+			"patternDesc": "LWW Health Library to Biblioteca digital UNAM",
+			"redirectUrl": "https://meded-lwwhealthlibrary-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "National Geographic Virtual Library",
+			"exampleUrl": "https://natgeo.gale.com/",
+			"exampleResult": "https://natgeo-gale-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://natgeo.gale.com/*",
+			"excludePattern": "",
+			"patternDesc": "National Geographic Virtual Library to Biblioteca digital UNAM",
+			"redirectUrl": "https://natgeo-gale-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "OnePetro",
+			"exampleUrl": "https://onepetro.org/",
+			"exampleResult": "https://onepetro-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://onepetro.org/*",
+			"excludePattern": "",
+			"patternDesc": "OnePetro to Biblioteca digital UNAM",
+			"redirectUrl": "https://onepetro-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Wiley Online Library",
+			"exampleUrl": "https://onlinelibrary.wiley.com/",
+			"exampleResult": "https://onlinelibrary-wiley-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://onlinelibrary.wiley.com/*",
+			"excludePattern": "",
+			"patternDesc": "Wiley Online Library to Biblioteca digital UNAM",
+			"redirectUrl": "https://onlinelibrary-wiley-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "OVID en español",
+			"exampleUrl": "https://ovides.ovidds.com/",
+			"exampleResult": "https://ovides-ovidds-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://ovides.ovidds.com/*",
+			"excludePattern": "",
+			"patternDesc": "OVID en español to Biblioteca digital UNAM",
+			"redirectUrl": "https://ovides-ovidds-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Journals@Ovid",
+			"exampleUrl": "https://ovidsp.ovid.com/",
+			"exampleResult": "https://ovidsp-ovid-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://ovidsp.ovid.com/*",
+			"excludePattern": "",
+			"patternDesc": "Journals@Ovid to Biblioteca digital UNAM",
+			"redirectUrl": "https://ovidsp-ovid-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Oxford Scholarship Online",
+			"exampleUrl": "https://oxford.universitypressscholarship.com/",
+			"exampleResult": "https://oxford-universitypressscholarship-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://oxford.universitypressscholarship.com/*",
+			"excludePattern": "",
+			"patternDesc": "Oxford Scholarship Online to Biblioteca digital UNAM",
+			"redirectUrl": "https://oxford-universitypressscholarship-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Global Plants",
+			"exampleUrl": "https://plants.jstor.org/",
+			"exampleResult": "https://plants-jstor-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://plants.jstor.org/*",
+			"excludePattern": "",
+			"patternDesc": "Global Plants to Biblioteca digital UNAM",
+			"redirectUrl": "https://plants-jstor-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "PubMed",
+			"exampleUrl": "https://pubmed.ncbi.nlm.nih.gov/",
+			"exampleResult": "https://pubmed-ncbi-nlm-nih-gov.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://pubmed.ncbi.nlm.nih.gov/*",
+			"excludePattern": "",
+			"patternDesc": "PubMed to Biblioteca digital UNAM",
+			"redirectUrl": "https://pubmed-ncbi-nlm-nih-gov.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Natural Product Updates",
+			"exampleUrl": "https://pubs.rsc.org/",
+			"exampleResult": "https://pubs-rsc-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://pubs.rsc.org/*",
+			"excludePattern": "",
+			"patternDesc": "Natural Product Updates to Biblioteca digital UNAM",
+			"redirectUrl": "https://pubs-rsc-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Brill's new Pauly",
+			"exampleUrl": "https://referenceworks.brillonline.com/",
+			"exampleResult": "https://referenceworks-brillonline-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://referenceworks.brillonline.com/*",
+			"excludePattern": "",
+			"patternDesc": "Brill's new Pauly to Biblioteca digital UNAM",
+			"redirectUrl": "https://referenceworks-brillonline-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Brill's new Jacoby",
+			"exampleUrl": "https://scholarlyeditions.brill.com/",
+			"exampleResult": "https://scholarlyeditions-brill-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://scholarlyeditions.brill.com/*",
+			"excludePattern": "",
+			"patternDesc": "Brill's new Jacoby to Biblioteca digital UNAM",
+			"redirectUrl": "https://scholarlyeditions-brill-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Science of synthesis",
+			"exampleUrl": "https://science.of.synthesis.thieme.com/",
+			"exampleResult": "https://science-of-synthesis-thieme-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://science.of.synthesis.thieme.com/*",
+			"excludePattern": "",
+			"patternDesc": "Science of synthesis to Biblioteca digital UNAM",
+			"redirectUrl": "https://science-of-synthesis-thieme-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "SciFinder-n",
+			"exampleUrl": "https://sso.cas.org/",
+			"exampleResult": "https://sso-cas-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://sso.cas.org/*",
+			"excludePattern": "",
+			"patternDesc": "SciFinder-n to Biblioteca digital UNAM",
+			"redirectUrl": "https://sso-cas-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "EBSCO",
+			"exampleUrl": "https://web-p-ebscohost.com/",
+			"exampleResult": "https://web-p-ebscohost-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://web-p-ebscohost.com/*",
+			"excludePattern": "",
+			"patternDesc": "EBSCO to Biblioteca digital UNAM",
+			"redirectUrl": "https://web-p-ebscohost-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Access Engineering",
+			"exampleUrl": "https://www.accessengineeringlibrary.com/",
+			"exampleResult": "https://www-accessengineeringlibrary-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.accessengineeringlibrary.com/*",
+			"excludePattern": "",
+			"patternDesc": "Access Engineering to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-accessengineeringlibrary-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "The Arabidopsis Information Resource (TAIR)",
+			"exampleUrl": "https://www.arabidopsis.org/",
+			"exampleResult": "https://www-arabidopsis-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.arabidopsis.org/*",
+			"excludePattern": "",
+			"patternDesc": "The Arabidopsis Information Resource (TAIR) to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-arabidopsis-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Bibliotechnia - Derecho",
+			"exampleUrl": "https://www.bibliotechnia.com.mx/",
+			"exampleResult": "https://www-bibliotechnia-com-mx.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.bibliotechnia.com.mx/*",
+			"excludePattern": "",
+			"patternDesc": "Bibliotechnia - Derecho to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-bibliotechnia-com-mx.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "CAB Abstracts",
+			"exampleUrl": "https://www.cabdirect.org/",
+			"exampleResult": "https://www-cabdirect-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.cabdirect.org/*",
+			"excludePattern": "",
+			"patternDesc": "CAB Abstracts to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-cabdirect-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "CAB",
+			"exampleUrl": "https://www.cabi.org/",
+			"exampleResult": "https://www-cabi-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.cabi.org/*",
+			"excludePattern": "",
+			"patternDesc": "CAB to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-cabi-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Cambridge Core",
+			"exampleUrl": "https://www.cambridge.org/",
+			"exampleResult": "https://www-cambridge-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.cambridge.org/*",
+			"excludePattern": "",
+			"patternDesc": "Cambridge Core to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-cambridge-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Statistical Abstract of the United States",
+			"exampleUrl": "https://www.census.gov/",
+			"exampleResult": "https://www-census-gov.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.census.gov/*",
+			"excludePattern": "",
+			"patternDesc": "Statistical Abstract of the United States to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-census-gov.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "CHEMnetBASE",
+			"exampleUrl": "https://www.chemnetbase.com/",
+			"exampleResult": "https://www-chemnetbase-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.chemnetbase.com/*",
+			"excludePattern": "",
+			"patternDesc": "CHEMnetBASE to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-chemnetbase-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Chicago Manual of Style Online",
+			"exampleUrl": "https://www.chicagomanualofstyle.org/",
+			"exampleResult": "https://www-chicagomanualofstyle-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.chicagomanualofstyle.org/*",
+			"excludePattern": "",
+			"patternDesc": "Chicago Manual of Style Online to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-chicagomanualofstyle-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "ClinicalKey Student Nursing",
+			"exampleUrl": "https://www.clinicalkey.com/",
+			"exampleResult": "https://www-clinicalkey-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.clinicalkey.com/*",
+			"excludePattern": "",
+			"patternDesc": "ClinicalKey Student Nursing to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-clinicalkey-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Clinical Key",
+			"exampleUrl": "https://www.clinicalkey.es/",
+			"exampleResult": "https://www-clinicalkey-es.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.clinicalkey.es/*",
+			"excludePattern": "",
+			"patternDesc": "Clinical Key to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-clinicalkey-es.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Bibliotheca Teubneriana Latina",
+			"exampleUrl": "https://www.degruyter.com/",
+			"exampleResult": "https://www-degruyter-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.degruyter.com/*",
+			"excludePattern": "",
+			"patternDesc": "Bibliotheca Teubneriana Latina to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-degruyter-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Documentavet",
+			"exampleUrl": "https://www.documentavet.com/",
+			"exampleResult": "https://www-documentavet-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.documentavet.com/*",
+			"excludePattern": "",
+			"patternDesc": "Documentavet to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-documentavet-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Clinical Skills",
+			"exampleUrl": "https://www.elsevierclinicalskills.es/",
+			"exampleResult": "https://www-elsevierclinicalskills-es.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.elsevierclinicalskills.es/*",
+			"excludePattern": "",
+			"patternDesc": "Clinical Skills to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-elsevierclinicalskills-es.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Emerald Insight",
+			"exampleUrl": "https://www.emerald.com/",
+			"exampleResult": "https://www-emerald-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.emerald.com/*",
+			"excludePattern": "",
+			"patternDesc": "Emerald Insight to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-emerald-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "EMIS University Global",
+			"exampleUrl": "https://www.emis.com/",
+			"exampleResult": "https://www-emis-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.emis.com/*",
+			"excludePattern": "",
+			"patternDesc": "EMIS University Global to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-emis-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Enferteca",
+			"exampleUrl": "https://www.enferteca.com/",
+			"exampleResult": "https://www-enferteca-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.enferteca.com/*",
+			"excludePattern": "",
+			"patternDesc": "Enferteca to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-enferteca-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Compendex, Geobase and GeoRef",
+			"exampleUrl": "https://www.engineeringvillage.com/",
+			"exampleResult": "https://www-engineeringvillage-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.engineeringvillage.com/*",
+			"excludePattern": "",
+			"patternDesc": "Compendex, Geobase and GeoRef to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-engineeringvillage-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "JoVE Science Education Database",
+			"exampleUrl": "https://www.jove.com/",
+			"exampleResult": "https://www-jove-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.jove.com/*",
+			"excludePattern": "",
+			"patternDesc": "JoVE Science Education Database to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-jove-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "JSTOR",
+			"exampleUrl": "https://www.jstor.org/",
+			"exampleResult": "https://www-jstor-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.jstor.org/*",
+			"excludePattern": "",
+			"patternDesc": "JSTOR to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-jstor-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Micromedex",
+			"exampleUrl": "https://www.micromedexsolutions.com/",
+			"exampleResult": "https://www-micromedexsolutions-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.micromedexsolutions.com/*",
+			"excludePattern": "",
+			"patternDesc": "Micromedex to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-micromedexsolutions-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "OECD iLibrary",
+			"exampleUrl": "https://www.oecd.ilibrary.org/",
+			"exampleResult": "https://www-oecd-ilibrary-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.oecd.ilibrary.org/*",
+			"excludePattern": "",
+			"patternDesc": "OECD iLibrary to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-oecd-ilibrary-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "O’Reilly for Higher Education",
+			"exampleUrl": "https://www.oreilly.com/",
+			"exampleResult": "https://www-oreilly-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.oreilly.com/*",
+			"excludePattern": "",
+			"patternDesc": "O’Reilly for Higher Education to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-oreilly-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Benezit Dictionary of Artists",
+			"exampleUrl": "https://www.oxfordartonline.com/",
+			"exampleResult": "https://www-oxfordartonline-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.oxfordartonline.com/*",
+			"excludePattern": "",
+			"patternDesc": "Benezit Dictionary of Artists to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-oxfordartonline-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Oxford Bibliographies - Ecology",
+			"exampleUrl": "https://www.oxfordbibliographies.com/",
+			"exampleResult": "https://www-oxfordbibliographies-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.oxfordbibliographies.com/*",
+			"excludePattern": "",
+			"patternDesc": "Oxford Bibliographies - Ecology to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-oxfordbibliographies-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Oxford Handbooks Online",
+			"exampleUrl": "https://www.oxfordhandbooks.com/",
+			"exampleResult": "https://www-oxfordhandbooks-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.oxfordhandbooks.com/*",
+			"excludePattern": "",
+			"patternDesc": "Oxford Handbooks Online to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-oxfordhandbooks-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "GROVE Dictionary of Music",
+			"exampleUrl": "https://www.oxfordmusiconline.com/",
+			"exampleResult": "https://www-oxfordmusiconline-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.oxfordmusiconline.com/*",
+			"excludePattern": "",
+			"patternDesc": "GROVE Dictionary of Music to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-oxfordmusiconline-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Dissertations & Theses \"Proquest",
+			"exampleUrl": "https://www.proquest.com/",
+			"exampleResult": "https://www-proquest-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.proquest.com/*",
+			"excludePattern": "",
+			"patternDesc": "Dissertations & Theses \"Proquest\" to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-proquest-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Reaxys",
+			"exampleUrl": "https://www.reaxys.com/",
+			"exampleResult": "https://www-reaxys-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.reaxys.com/*",
+			"excludePattern": "",
+			"patternDesc": "Reaxys to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-reaxys-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Routledge Encyclopedia of Philosophy",
+			"exampleUrl": "https://www.rep.routledge.com/",
+			"exampleResult": "https://www-rep-routledge-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.rep.routledge.com/*",
+			"excludePattern": "",
+			"patternDesc": "Routledge Encyclopedia of Philosophy to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-rep-routledge-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "ScienceDirect",
+			"exampleUrl": "https://www.sciencedirect.com/",
+			"exampleResult": "https://www-sciencedirect-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.sciencedirect.com/*",
+			"excludePattern": "",
+			"patternDesc": "ScienceDirect to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-sciencedirect-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "SPIE Digital Library",
+			"exampleUrl": "https://www.spiedigitallibrary.org/",
+			"exampleResult": "https://www-spiedigitallibrary-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.spiedigitallibrary.org/*",
+			"excludePattern": "",
+			"patternDesc": "SPIE Digital Library to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-spiedigitallibrary-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Taylor & Francis",
+			"exampleUrl": "https://www.tandfonline.com/",
+			"exampleResult": "https://www-tandfonline-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.tandfonline.com/*",
+			"excludePattern": "",
+			"patternDesc": "Taylor & Francis to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-tandfonline-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "UpToDate",
+			"exampleUrl": "https://www.uptodate.com/",
+			"exampleResult": "https://www-uptodate-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.uptodate.com/*",
+			"excludePattern": "",
+			"patternDesc": "UpToDate to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-uptodate-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Web of Science",
+			"exampleUrl": "https://www.webofscience.com/",
+			"exampleResult": "https://www-webofscience-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.webofscience.com/*",
+			"excludePattern": "",
+			"patternDesc": "Web of Science to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-webofscience-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Zentralblatt MATH database",
+			"exampleUrl": "https://www.zbmath.org/",
+			"exampleResult": "https://www-zbmath-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.zbmath.org/*",
+			"excludePattern": "",
+			"patternDesc": "Zentralblatt MATH database to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-zbmath-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
+		  {
+			"description": "Scopus",
+			"exampleUrl": "https://www2.scopus.com/",
+			"exampleResult": "https://www2-scopus-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www2.scopus.com/*",
+			"excludePattern": "",
+			"patternDesc": "Scopus to Biblioteca digital UNAM",
+			"redirectUrl": "https://www2-scopus-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  }
+		]
+}
