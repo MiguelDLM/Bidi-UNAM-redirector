@@ -1583,6 +1583,23 @@
 			  "main_frame"
 			]
 		  },
+	           {
+			    "description": "DOI -> Sci-Hub",
+			    "exampleUrl": "https://doi.org/10.1894/0038-4909-62.3.232",
+			    "exampleResult": "http://sci-hub.se/https://doi.org/10.1894/0038-4909-62.3.232",
+			    "error": null,
+			    "includePattern": "https://doi.org/*",
+			    "excludePattern": "",
+			    "patternDesc": "",
+			    "redirectUrl": "http://sci-hub.se/https://doi.org/$1",
+			    "patternType": "W",
+			    "processMatches": "noProcessing",
+			    "disabled": false,
+			    "grouped": false,
+			    "appliesTo": [
+				"main_frame"
+			    ]
+		 },
 		  {
 			"description": "Scopus",
 			"exampleUrl": "https://www2.scopus.com/",
