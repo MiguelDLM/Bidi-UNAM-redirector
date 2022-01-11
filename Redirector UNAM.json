@@ -1616,6 +1616,23 @@
 			"apliesTo": [
 			  "main_frame"
 			]
+		  },
+	    {
+			"description": "Nature",
+			"exampleUrl": "https://www.nature.com/",
+			"exampleResult": "https://www-nature-com.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.nature.com/*",
+			"excludePattern": "",
+			"patternDesc": "Nature to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-nature-com.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
 		  }
 		]
 }
