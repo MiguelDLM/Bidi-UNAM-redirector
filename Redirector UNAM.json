@@ -1602,10 +1602,10 @@
 		 },
 		  {
 			"description": "Scopus",
-			"exampleUrl": "https://www2.scopus.com/",
+			"exampleUrl": "https://www.scopus.com/",
 			"exampleResult": "https://www2-scopus-com.pbidi.unam.mx:2443/",
 			"error": null,
-			"includePattern": "https://www2.scopus.com/*",
+			"includePattern": "https://www.scopus.com/*",
 			"excludePattern": "",
 			"patternDesc": "Scopus to Biblioteca digital UNAM",
 			"redirectUrl": "https://www2-scopus-com.pbidi.unam.mx:2443/$1",
