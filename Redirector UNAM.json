@@ -1617,6 +1617,23 @@
 			  "main_frame"
 			]
 		  },
+	    		  {
+			"description": "Science",
+			"exampleUrl": "https://www.science.com/",
+			"exampleResult": "https://www-science-org.pbidi.unam.mx:2443/",
+			"error": null,
+			"includePattern": "https://www.science.com/*",
+			"excludePattern": "",
+			"patternDesc": "Science to Biblioteca digital UNAM",
+			"redirectUrl": "https://www-science-org.pbidi.unam.mx:2443/$1",
+			"patternType": "W",
+			"processMatches": "noProcessing",
+			"disabled": false,
+			"grouped": false,
+			"apliesTo": [
+			  "main_frame"
+			]
+		  },
 	    {
 			"description": "Nature",
 			"exampleUrl": "https://www.nature.com/",
