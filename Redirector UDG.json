@@ -1,0 +1,1043 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2022-01-11T21:14:40.788Z",
+    "redirects": [
+          {
+    "description": "Access Engineering",
+    "exampleUrl": "https://www.accessengineeringlibrary.com/",
+    "exampleResult": "https://www-accessengineeringlibrary-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.accessengineeringlibrary.com/*",
+    "excludePattern": "",
+    "patternDesc": "Access Engineering to Biblioteca digital UDG",
+    "redirectUrl": "https://www-accessengineeringlibrary-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Access Medicina",
+    "exampleUrl": "https://accessmedicina.mhmedical.com/",
+    "exampleResult": "https://accessmedicina-mhmedical-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://accessmedicina.mhmedical.com/*",
+    "excludePattern": "",
+    "patternDesc": "Access Medicina to Biblioteca digital UDG",
+    "redirectUrl": "https://accessmedicina-mhmedical-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "ACM Digital Library",
+    "exampleUrl": "https://dl.acm.org/",
+    "exampleResult": "https://dl-acm-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://dl.acm.org/*",
+    "excludePattern": "",
+    "patternDesc": "ACM Digital Library to Biblioteca digital UDG",
+    "redirectUrl": "https://dl-acm-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "ACSESS Digital Library",
+    "exampleUrl": "https://acsess.onlinelibrary.wiley.com/",
+    "exampleResult": "https://acsess-onlinelibrary-wiley-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://acsess.onlinelibrary.wiley.com/*",
+    "excludePattern": "",
+    "patternDesc": "ACSESS Digital Library to Biblioteca digital UDG",
+    "redirectUrl": "https://acsess-onlinelibrary-wiley-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "ASCE Library",
+    "exampleUrl": "https://ascelibrary.org/",
+    "exampleResult": "https://ascelibrary-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://ascelibrary.org/*",
+    "excludePattern": "",
+    "patternDesc": "ASCE Library to Biblioteca digital UDG",
+    "redirectUrl": "https://ascelibrary-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "BioOne",
+    "exampleUrl": "https://bioone.org/",
+    "exampleResult": "https://bioone-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://bioone.org/*",
+    "excludePattern": "",
+    "patternDesc": "BioOne to Biblioteca digital UDG",
+    "redirectUrl": "https://bioone-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "CAB",
+    "exampleUrl": "https://www.cabi.org/",
+    "exampleResult": "https://www-cabi-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.cabi.org/*",
+    "excludePattern": "",
+    "patternDesc": "CAB to Biblioteca digital UDG",
+    "redirectUrl": "https://www-cabi-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "CAB Abstracts",
+    "exampleUrl": "https://www.cabdirect.org/",
+    "exampleResult": "https://www-cabdirect-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.cabdirect.org/*",
+    "excludePattern": "",
+    "patternDesc": "CAB Abstracts to Biblioteca digital UDG",
+    "redirectUrl": "https://www-cabdirect-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Cambridge Core",
+    "exampleUrl": "https://www.cambridge.org/",
+    "exampleResult": "https://www-cambridge-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.cambridge.org/*",
+    "excludePattern": "",
+    "patternDesc": "Cambridge Core to Biblioteca digital UDG",
+    "redirectUrl": "https://www-cambridge-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Clinical Key",
+    "exampleUrl": "https://www.clinicalkey.es/",
+    "exampleResult": "https://www-clinicalkey-es.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.clinicalkey.es/*",
+    "excludePattern": "",
+    "patternDesc": "Clinical Key to Biblioteca digital UDG",
+    "redirectUrl": "https://www-clinicalkey-es.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "ClinicalKey Student Nursing",
+    "exampleUrl": "https://www.clinicalkey.com/",
+    "exampleResult": "https://www-clinicalkey-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.clinicalkey.com/*",
+    "excludePattern": "",
+    "patternDesc": "ClinicalKey Student Nursing to Biblioteca digital UDG",
+    "redirectUrl": "https://www-clinicalkey-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Dissertations & Theses \"Proquest",
+    "exampleUrl": "https://www.proquest.com/",
+    "exampleResult": "https://www-proquest-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.proquest.com/*",
+    "excludePattern": "",
+    "patternDesc": "Dissertations & Theses \"Proquest\" to Biblioteca digital UDG",
+    "redirectUrl": "https://www-proquest-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "EBSCO",
+    "exampleUrl": "https://web.p.ebscohost.com/",
+    "exampleResult": "https://web-p-ebscohost-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://web.p.ebscohost.com/*",
+    "excludePattern": "",
+    "patternDesc": "EBSCO to Biblioteca digital UDG",
+    "redirectUrl": "https://web-p-ebscohost-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "EMIS University Global",
+    "exampleUrl": "https://www.emis.com/",
+    "exampleResult": "https://www-emis-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.emis.com/*",
+    "excludePattern": "",
+    "patternDesc": "EMIS University Global to Biblioteca digital UDG",
+    "redirectUrl": "https://www-emis-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Enferteca",
+    "exampleUrl": "https://www.enferteca.com/",
+    "exampleResult": "https://www-enferteca-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.enferteca.com/*",
+    "excludePattern": "",
+    "patternDesc": "Enferteca to Biblioteca digital UDG",
+    "redirectUrl": "https://www-enferteca-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "ERIC",
+    "exampleUrl": "https://eric.ed.gov/",
+    "exampleResult": "https://eric-ed-gov.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://eric.ed.gov/*",
+    "excludePattern": "",
+    "patternDesc": "ERIC to Biblioteca digital UDG",
+    "redirectUrl": "https://eric-ed-gov.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Gale",
+    "exampleUrl": "https://go.gale.com/",
+    "exampleResult": "https://go-gale-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://go.gale.com/*",
+    "excludePattern": "",
+    "patternDesc": "Gale to Biblioteca digital UDG",
+    "redirectUrl": "https://go-gale-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "IEEE Xplore",
+    "exampleUrl": "https://ieeexplore.ieee.org/",
+    "exampleResult": "https://ieeexplore-ieee-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://ieeexplore.ieee.org/*",
+    "excludePattern": "",
+    "patternDesc": "IEEE Xplore to Biblioteca digital UDG",
+    "redirectUrl": "https://ieeexplore-ieee-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "IOPscience",
+    "exampleUrl": "https://iopscience.iop.org/",
+    "exampleResult": "https://iopscience-iop-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://iopscience.iop.org/*",
+    "excludePattern": "",
+    "patternDesc": "IOPscience to Biblioteca digital UDG",
+    "redirectUrl": "https://iopscience-iop-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Journal Citation Reports",
+    "exampleUrl": "https://jcr.clarivate.com/",
+    "exampleResult": "https://jcr-clarivate-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://jcr.clarivate.com/*",
+    "excludePattern": "",
+    "patternDesc": "Journal Citation Reports to Biblioteca digital UDG",
+    "redirectUrl": "https://jcr-clarivate-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "JSTOR",
+    "exampleUrl": "https://www.jstor.org/",
+    "exampleResult": "https://www-jstor-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.jstor.org/*",
+    "excludePattern": "",
+    "patternDesc": "JSTOR to Biblioteca digital UDG",
+    "redirectUrl": "https://www-jstor-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "MathSciNet",
+    "exampleUrl": "https://mathscinet.ams.org/",
+    "exampleResult": "https://mathscinet-ams-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://mathscinet.ams.org/*",
+    "excludePattern": "",
+    "patternDesc": "MathSciNet to Biblioteca digital UDG",
+    "redirectUrl": "https://mathscinet-ams-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "News Bank",
+    "exampleUrl": "https://infoweb.newsbank.com/",
+    "exampleResult": "https://infoweb-newsbank-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://infoweb.newsbank.com/*",
+    "excludePattern": "",
+    "patternDesc": "News Bank to Biblioteca digital UDG",
+    "redirectUrl": "https://infoweb-newsbank-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "OVID en español",
+    "exampleUrl": "https://ovides.ovidds.com/",
+    "exampleResult": "https://ovides-ovidds-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://ovides.ovidds.com/*",
+    "excludePattern": "",
+    "patternDesc": "OVID en español to Biblioteca digital UDG",
+    "redirectUrl": "https://ovides-ovidds-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Oxford Academic Journals",
+    "exampleUrl": "https://academic.oup.com/",
+    "exampleResult": "https://academic-oup-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://academic.oup.com/*",
+    "excludePattern": "",
+    "patternDesc": "Oxford Academic Journals to Biblioteca digital UDG",
+    "redirectUrl": "https://academic-oup-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Sage Publishing",
+    "exampleUrl": "https://journals.sagepub.com/",
+    "exampleResult": "https://journals-sagepub-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://journals.sagepub.com/*",
+    "excludePattern": "",
+    "patternDesc": "Sage Publishing to Biblioteca digital UDG",
+    "redirectUrl": "https://journals-sagepub-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "ScienceDirect",
+    "exampleUrl": "https://www.sciencedirect.com/",
+    "exampleResult": "https://www-sciencedirect-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.sciencedirect.com/*",
+    "excludePattern": "",
+    "patternDesc": "ScienceDirect to Biblioteca digital UDG",
+    "redirectUrl": "https://www-sciencedirect-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "SciFinder-n",
+    "exampleUrl": "https://sso.cas.org/",
+    "exampleResult": "https://sso-cas-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://sso.cas.org/*",
+    "excludePattern": "",
+    "patternDesc": "SciFinder-n to Biblioteca digital UDG",
+    "redirectUrl": "https://sso-cas-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Scopus",
+    "exampleUrl": "www.scopus.com",
+    "exampleResult": "https://www2-scopus-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "www.scopus.com*",
+    "excludePattern": "",
+    "patternDesc": "Scopus to Biblioteca digital UDG",
+    "redirectUrl": "https://www2-scopus-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "SIAM e-books",
+    "exampleUrl": "https://epubs.siam.org/",
+    "exampleResult": "https://epubs-siam-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://epubs.siam.org/*",
+    "excludePattern": "",
+    "patternDesc": "SIAM e-books to Biblioteca digital UDG",
+    "redirectUrl": "https://epubs-siam-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "SPIE Digital Library",
+    "exampleUrl": "https://www.spiedigitallibrary.org/",
+    "exampleResult": "https://www-spiedigitallibrary-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.spiedigitallibrary.org/*",
+    "excludePattern": "",
+    "patternDesc": "SPIE Digital Library to Biblioteca digital UDG",
+    "redirectUrl": "https://www-spiedigitallibrary-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Springer Materials",
+    "exampleUrl": "http://materials.springer.com/",
+    "exampleResult": "http://materials.springer.com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "http://materials.springer.com/*",
+    "excludePattern": "",
+    "patternDesc": "Springer Materials to Biblioteca digital UDG",
+    "redirectUrl": "http://materials.springer.com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Springer Protocols",
+    "exampleUrl": "https://experiments.springernature.com/",
+    "exampleResult": "https://experiments-springernature-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://experiments.springernature.com/*",
+    "excludePattern": "",
+    "patternDesc": "Springer Protocols to Biblioteca digital UDG",
+    "redirectUrl": "https://experiments-springernature-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "SpringerLink",
+    "exampleUrl": "https://link.springer.com/",
+    "exampleResult": "https://link-springer-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://link.springer.com/*",
+    "excludePattern": "",
+    "patternDesc": "SpringerLink to Biblioteca digital UDG",
+    "redirectUrl": "https://link-springer-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Taylor & Francis",
+    "exampleUrl": "https://www.tandfonline.com/",
+    "exampleResult": "https://www-tandfonline-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.tandfonline.com/*",
+    "excludePattern": "",
+    "patternDesc": "Taylor & Francis to Biblioteca digital UDG",
+    "redirectUrl": "https://www-tandfonline-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Ulrichs periodicals directory",
+    "exampleUrl": "http://ulrichsweb.serialssolutions.com/",
+    "exampleResult": "http://ulrichsweb.serialssolutions.com.wdg.biblio.udg.mx:2048/",
+    "error": null,
+    "includePattern": "http://ulrichsweb.serialssolutions.com/*",
+    "excludePattern": "",
+    "patternDesc": "Ulrichs periodicals directory to Biblioteca digital UDG",
+    "redirectUrl": "http://ulrichsweb.serialssolutions.com.wdg.biblio.udg.mx:2048/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "UpToDate",
+    "exampleUrl": "https://www.uptodate.com/",
+    "exampleResult": "https://www-uptodate-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.uptodate.com/*",
+    "excludePattern": "",
+    "patternDesc": "UpToDate to Biblioteca digital UDG",
+    "redirectUrl": "https://www-uptodate-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "vLex",
+    "exampleUrl": "https://app.vlex.com/",
+    "exampleResult": "https://app-vlex-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://app.vlex.com/*",
+    "excludePattern": "",
+    "patternDesc": "vLex to Biblioteca digital UDG",
+    "redirectUrl": "https://app-vlex-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Web of Science",
+    "exampleUrl": "https://www.webofscience.com/",
+    "exampleResult": "https://www-webofscience-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.webofscience.com/*",
+    "excludePattern": "",
+    "patternDesc": "Web of Science to Biblioteca digital UDG",
+    "redirectUrl": "https://www-webofscience-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Wiley Online Library",
+    "exampleUrl": "https://onlinelibrary.wiley.com/",
+    "exampleResult": "https://onlinelibrary-wiley-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://onlinelibrary.wiley.com/*",
+    "excludePattern": "",
+    "patternDesc": "Wiley Online Library to Biblioteca digital UDG",
+    "redirectUrl": "https://onlinelibrary-wiley-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Wiley Protocols",
+    "exampleUrl": "https://currentprotocols.onlinelibrary.wiley.com/",
+    "exampleResult": "https://currentprotocols-onlinelibrary-wiley-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://currentprotocols.onlinelibrary.wiley.com/*",
+    "excludePattern": "",
+    "patternDesc": "Wiley Protocols to Biblioteca digital UDG",
+    "redirectUrl": "https://currentprotocols-onlinelibrary-wiley-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "ACLAND ANATOMY",
+    "exampleUrl": "https://es.aclandanatomy.com/",
+    "exampleResult": "https://es-aclandanatomy-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://es.aclandanatomy.com/*",
+    "excludePattern": "",
+    "patternDesc": "ACLAND ANATOMY to Biblioteca digital UDG",
+    "redirectUrl": "https://es-aclandanatomy-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "ACS Publications",
+    "exampleUrl": "https://pubs.acs.org/",
+    "exampleResult": "https://pubs-acs-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://pubs.acs.org/*",
+    "excludePattern": "",
+    "patternDesc": "ACS Publications to Biblioteca digital UDG",
+    "redirectUrl": "https://pubs-acs-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "American Society of Mechanical Engineers (ASME)",
+    "exampleUrl": "https://asmedigitalcollection.asme.org/",
+    "exampleResult": "https://asmedigitalcollection-asme-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://asmedigitalcollection.asme.org/*",
+    "excludePattern": "",
+    "patternDesc": "American Society of Mechanical Engineers (ASME) to Biblioteca digital UDG",
+    "redirectUrl": "https://asmedigitalcollection-asme-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Nature",
+    "exampleUrl": "https://www.nature.com/",
+    "exampleResult": "https://www-nature-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.nature.com/*",
+    "excludePattern": "",
+    "patternDesc": "Nature to Biblioteca digital UDG",
+    "redirectUrl": "https://www-nature-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "NNNConsult",
+    "exampleUrl": "https://www.nnnconsult.com/",
+    "exampleResult": "https://www-nnnconsult-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.nnnconsult.com/*",
+    "excludePattern": "",
+    "patternDesc": "NNNConsult to Biblioteca digital UDG",
+    "redirectUrl": "https://www-nnnconsult-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Royal Society of Chemistry",
+    "exampleUrl": "https://pubs.rsc.org/",
+    "exampleResult": "https://pubs-rsc-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://pubs.rsc.org/*",
+    "excludePattern": "",
+    "patternDesc": "Royal Society of Chemistry to Biblioteca digital UDG",
+    "redirectUrl": "https://pubs-rsc-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "STATdx",
+    "exampleUrl": "https://app.statdx.com/",
+    "exampleResult": "https://app-statdx-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://app.statdx.com/*",
+    "excludePattern": "",
+    "patternDesc": "STATdx to Biblioteca digital UDG",
+    "redirectUrl": "https://app-statdx-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "The New England Journal of Medicine",
+    "exampleUrl": "https://www.nejm.org/",
+    "exampleResult": "https://www-nejm-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.nejm.org/*",
+    "excludePattern": "",
+    "patternDesc": "The New England Journal of Medicine to Biblioteca digital UDG",
+    "redirectUrl": "https://www-nejm-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Tirant Online",
+    "exampleUrl": "https://www.tirantonline.com.mx/",
+    "exampleResult": "https://www-tirantonline-com-mx.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.tirantonline.com.mx/*",
+    "excludePattern": "",
+    "patternDesc": "Tirant Online to Biblioteca digital UDG",
+    "redirectUrl": "https://www-tirantonline-com-mx.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Annual Reviews",
+    "exampleUrl": "https://www.annualreviews.org/",
+    "exampleResult": "https://www-annualreviews-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.annualreviews.org/*",
+    "excludePattern": "",
+    "patternDesc": "Annual Reviews to Biblioteca digital UDG",
+    "redirectUrl": "https://www-annualreviews-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Bibliocolabora",
+    "exampleUrl": "https://s8443.www.bibliocolabora.es/",
+    "exampleResult": "https://s8443-www-bibliocolabora-es.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://s8443.www.bibliocolabora.es/*",
+    "excludePattern": "",
+    "patternDesc": "Bibliocolabora to Biblioteca digital UDG",
+    "redirectUrl": "https://s8443-www-bibliocolabora-es.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Ingenta connect",
+    "exampleUrl": "https://www.ingentaconnect.com/",
+    "exampleResult": "https://www-ingentaconnect-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.ingentaconnect.com/*",
+    "excludePattern": "",
+    "patternDesc": "Ingenta connect to Biblioteca digital UDG",
+    "redirectUrl": "https://www-ingentaconnect-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "J-Gate",
+    "exampleUrl": "https://jgateplus.com/",
+    "exampleResult": "https://jgateplus-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://jgateplus.com/*",
+    "excludePattern": "",
+    "patternDesc": "J-Gate to Biblioteca digital UDG",
+    "redirectUrl": "https://jgateplus-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Chicago University Press",
+    "exampleUrl": "https://www.journals.uchicago.edu/",
+    "exampleResult": "https://www-journals-uchicago-edu.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.journals.uchicago.edu/*",
+    "excludePattern": "",
+    "patternDesc": "Chicago University Press to Biblioteca digital UDG",
+    "redirectUrl": "https://www-journals-uchicago-edu.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Drug Metabolism",
+    "exampleUrl": "https://dmd.aspetjournals.org/",
+    "exampleResult": "https://dmd-aspetjournals-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://dmd.aspetjournals.org/*",
+    "excludePattern": "",
+    "patternDesc": "Drug Metabolism to Biblioteca digital UDG",
+    "redirectUrl": "https://dmd-aspetjournals-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Global Jurist",
+    "exampleUrl": "https://bepress.com/",
+    "exampleResult": "https://bepress-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://bepress.com/*",
+    "excludePattern": "",
+    "patternDesc": "Global Jurist to Biblioteca digital UDG",
+    "redirectUrl": "https://bepress-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Journal of Teaching in Physical Education",
+    "exampleUrl": "https://journals.humankinetics.com/",
+    "exampleResult": "https://journals-humankinetics-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://journals.humankinetics.com/*",
+    "excludePattern": "",
+    "patternDesc": "Journal of Teaching in Physical Education to Biblioteca digital UDG",
+    "redirectUrl": "https://journals-humankinetics-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Proceedings of the National Academy of Sciences of the United States of America",
+    "exampleUrl": "https://www.pnas.org/",
+    "exampleResult": "https://www-pnas-org.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://www.pnas.org/*",
+    "excludePattern": "",
+    "patternDesc": "Proceedings of the National Academy of Sciences of the United States of America to Biblioteca digital UDG",
+    "redirectUrl": "https://www-pnas-org.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "Proceso",
+    "exampleUrl": "https://publicacionesdigitales.proceso.com.mx/",
+    "exampleResult": "https://publicacionesdigitales-proceso-com-mx.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://publicacionesdigitales.proceso.com.mx/*",
+    "excludePattern": "",
+    "patternDesc": "Proceso to Biblioteca digital UDG",
+    "redirectUrl": "https://publicacionesdigitales-proceso-com-mx.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  },
+  {
+    "description": "The Journal of the American Medical Association",
+    "exampleUrl": "https://jamanetwork.com/",
+    "exampleResult": "https://jamanetwork-com.wdg.biblio.udg.mx:8443/",
+    "error": null,
+    "includePattern": "https://jamanetwork.com/*",
+    "excludePattern": "",
+    "patternDesc": "The Journal of the American Medical Association to Biblioteca digital UDG",
+    "redirectUrl": "https://jamanetwork-com.wdg.biblio.udg.mx:8443/$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  }
+    ]
+}
