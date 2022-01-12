@@ -1038,6 +1038,23 @@
     "apliesTo": [
       "main_frame"
     ]
-  }
+  },
+        {
+    "description": "Log-in Wdg",
+    "exampleUrl": "https://login.wdg.biblio.udg.mx:8443/login",
+    "exampleResult": "https://login.wdg.biblio.udg.mx/index.php/paginaacceso",
+    "error": null,
+    "includePattern": "https://login.wdg.biblio.udg.mx:8443/login*",
+    "excludePattern": "",
+    "patternDesc": "En caso de error con las credenciales, redirige a la página de acceso a la biblioteca virtual",
+    "redirectUrl": "https://login.wdg.biblio.udg.mx/index.php/paginaacceso$1",
+    "patternType": "W",
+    "processMatches": "noProcessing",
+    "disabled": false,
+    "grouped": false,
+    "apliesTo": [
+      "main_frame"
+    ]
+  }  
     ]
 }
